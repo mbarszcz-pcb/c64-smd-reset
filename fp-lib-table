@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "C64 SMD Reset")(type KiCad)(uri "${KIPRJMOD}/C64 SMD Reset.pretty")(options "")(descr ""))
+)
